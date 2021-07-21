@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "fpsGame",
+			"Path": "/Users/lukehawinkels/Desktop/Projects/COMP313 Assignment 01/fpsGame/Source/fpsGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "fpsGameEditor",
+			"Path": "/Users/lukehawinkels/Desktop/Projects/COMP313 Assignment 01/fpsGame/Source/fpsGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

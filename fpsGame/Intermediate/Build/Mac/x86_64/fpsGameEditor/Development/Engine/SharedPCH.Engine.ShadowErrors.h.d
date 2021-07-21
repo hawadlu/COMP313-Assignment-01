@@ -1,5 +1,5 @@
-/Users/lukehawinkels/Desktop/Projects/COMP313\ Assignment\ 01/fpsGame/Intermediate/Build/Mac/x86_64/fpsGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.gch: \
-  /Users/lukehawinkels/Desktop/Projects/COMP313\ Assignment\ 01/fpsGame/Intermediate/Build/Mac/x86_64/fpsGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h \
+/Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Intermediate/Build/Mac/x86_64/fpsGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.gch: \
+  /Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Intermediate/Build/Mac/x86_64/fpsGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Core/Public/Containers/ContainersFwd.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Core/Public/CoreTypes.h \

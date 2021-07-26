@@ -76,3 +76,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 fpsGame/Intermediate
+fpsGame/Saved/Autosaves

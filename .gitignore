@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# idea files
+fpsGame/.idea/
+fpsGame/cmake-build-debug
+
+#vscode files
+fpsGame/.vscode

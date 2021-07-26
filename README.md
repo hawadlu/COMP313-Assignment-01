@@ -2,7 +2,7 @@ Course code: COMP313
 Your name: Luke Hawinkels
 Assignment number: 01
 Title of the technology / Game: Shoot Me
-Link to video showing the prototype/game ( approx. 4-9 mins ): https://1drv.ms/v/s!AoL5Qpy3NBwXkvoO3XkDrrh7aflzlw?e=Eck5F4
+Link to video showing the prototype/game ( approx. 4-9 mins ): https://1drv.ms/v/s!AoL5Qpy3NBwXkvoQRl2TT1l6WXYmnQ?e=7KamFe
 
 Description
 This is a basic first person shooter, it has minimal graphics and basic controls. The aim is to survive until the clock runs down.

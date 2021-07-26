@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Source/fpsGame/fpsGame.Build.cs",
+		"/Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Source/fpsGame.Target.cs",
+		"/Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Source/fpsGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

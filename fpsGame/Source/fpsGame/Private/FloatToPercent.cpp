@@ -4,6 +4,6 @@
 #include "FloatToPercent.h"
 
 float UFloatToPercent::floatToPercent(float fullHealth, float currentHealth) {
-    return fullHealth / currentHealth;
+    return currentHealth / fullHealth;
 }
 

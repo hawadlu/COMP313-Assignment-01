@@ -79,3 +79,5 @@ fpsGame/cmake-build-debug
 
 #vscode files
 fpsGame/.vscode
+
+fpsGame/Intermediate/

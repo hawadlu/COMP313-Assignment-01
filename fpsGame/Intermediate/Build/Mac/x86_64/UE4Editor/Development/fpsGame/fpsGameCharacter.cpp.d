@@ -1,4 +1,4 @@
-/Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Intermediate/Build/Mac/x86_64/UE4Editor/Development/fpsGame/fpsGameCharacter.cpp.o: \
+/Users/Guest/Downloads/COMP313-Assignment-01-main/fpsGame/Intermediate/Build/Mac/x86_64/UE4Editor/Development/fpsGame/fpsGameCharacter.cpp.o: \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Engine/Public/TextureLayout.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Engine/Public/TextureLayout3d.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Intermediate/Build/Mac/x86_64/UE4Editor/Inc/Engine/SoundWave.generated.h \
@@ -1275,7 +1275,7 @@
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Core/Public/CoreTypes.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Core/Public/Containers/ContainersFwd.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
-  /Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Intermediate/Build/Mac/x86_64/fpsGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h \
+  /Users/Guest/Downloads/COMP313-Assignment-01-main/fpsGame/Intermediate/Build/Mac/x86_64/fpsGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include/stddef.h \
@@ -2627,18 +2627,18 @@
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1/typeinfo \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1/cstdint \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1/atomic \
-  /Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Source/fpsGame/fpsGameCharacter.cpp \
-  /Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Intermediate/Build/Mac/x86_64/UE4Editor/Development/fpsGame/Definitions.fpsGame.h \
-  /Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Source/fpsGame/fpsGameCharacter.h \
+  /Users/Guest/Downloads/COMP313-Assignment-01-main/fpsGame/Source/fpsGame/fpsGameCharacter.cpp \
+  /Users/Guest/Downloads/COMP313-Assignment-01-main/fpsGame/Intermediate/Build/Mac/x86_64/UE4Editor/Development/fpsGame/Definitions.fpsGame.h \
+  /Users/Guest/Downloads/COMP313-Assignment-01-main/fpsGame/Source/fpsGame/fpsGameCharacter.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/CharacterMovementReplication.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Intermediate/Build/Mac/x86_64/UE4Editor/Inc/Engine/CharacterMovementReplication.generated.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/RootMotionSource.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Intermediate/Build/Mac/x86_64/UE4Editor/Inc/Engine/RootMotionSource.generated.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Intermediate/Build/Mac/x86_64/UE4Editor/Inc/Engine/Character.generated.h \
-  /Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Intermediate/Build/Mac/x86_64/UE4Editor/Inc/fpsGame/fpsGameCharacter.generated.h \
-  /Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Source/fpsGame/fpsGameProjectile.h \
-  /Users/lukehawinkels/Desktop/Projects/COMP313-Assignment-01/fpsGame/Intermediate/Build/Mac/x86_64/UE4Editor/Inc/fpsGame/fpsGameProjectile.generated.h \
+  /Users/Guest/Downloads/COMP313-Assignment-01-main/fpsGame/Intermediate/Build/Mac/x86_64/UE4Editor/Inc/fpsGame/fpsGameCharacter.generated.h \
+  /Users/Guest/Downloads/COMP313-Assignment-01-main/fpsGame/Source/fpsGame/fpsGameProjectile.h \
+  /Users/Guest/Downloads/COMP313-Assignment-01-main/fpsGame/Intermediate/Build/Mac/x86_64/UE4Editor/Inc/fpsGame/fpsGameProjectile.generated.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Camera/CameraComponent.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Intermediate/Build/Mac/x86_64/UE4Editor/Inc/Engine/CameraComponent.generated.h \
   /Users/Shared/Epic\ Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Components/CapsuleComponent.h \
